@@ -1,4 +1,4 @@
-FROM https://portus.sto.suse.home:5000/base_images/sles12sp3:2.0.2
+FROM portus.sto.suse.home:5000/base_images/sles12sp3:2.0.2
 MAINTAINER Richard Schaertel
 
 ARG repo
